@@ -1,1 +1,1 @@
-# movie_recommendation_system
+This project implements a content-based movie recommendation system using cosine similarity. The system recommends movies to users based on the similarity of movie features such as genre, director, cast, etc. It leverages the cosine similarity metric to measure the similarity between movies.
